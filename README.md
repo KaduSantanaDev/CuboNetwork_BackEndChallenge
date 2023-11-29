@@ -60,4 +60,4 @@ POST: /api/users -> name, last_name and percentage are required
 
 # Authentication
 
-IN DEVELOPMENT
+## IN DEVELOPMENT👨‍💻
